@@ -1,0 +1,13 @@
+dataset,model,test_clean_acc_clean_selector,test_clean_acc_best_corrupt_selector
+cifar10,convnext,0.8356,0.8294
+cifar10,resnet,0.6611,0.6616
+cifar10,vgg,0.8873,0.8828
+cifar10,vit,0.7221,0.7221
+fashion_mnist,convnext,0.9291,0.9263
+fashion_mnist,resnet,0.6959,0.6959
+fashion_mnist,vgg,0.9429,0.9405
+fashion_mnist,vit,0.9001,0.8846
+imagenet100,convnext,0.5515384615384615,0.5463846153846154
+imagenet100,resnet,0.4206923076923077,0.4206923076923077
+imagenet100,vgg,0.6908461538461539,0.6908461538461539
+imagenet100,vit,0.4703076923076923,0.4701538461538461

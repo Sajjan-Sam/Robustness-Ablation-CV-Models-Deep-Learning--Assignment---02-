@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+downloads/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.tar.gz
+*.bin
+13_generate_all_selector_visuals_fast5.ipynb
